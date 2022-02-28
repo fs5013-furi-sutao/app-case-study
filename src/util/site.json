@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "AppCaseStudy",
+    "titleTemplate": "%s",
+    "description": "アプリ事例ノートでは、アプリの開発事例をまとめています",
+    "siteUrl": "https://app-case-study.vercel.app/",
+    "image": "/assets/stackrole.png",
+    "iconimage": "/assets/stackrole.png",
+    "twitterUsername": ""
+  },
+  "ga": "G-JVRDLQ390V"
+}
