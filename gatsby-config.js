@@ -121,5 +121,11 @@ module.exports = {
         generateMatchPathRewrites: true,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [process.env.GATSBY_TRACKING_ID],
+      },
+    },
   ],
 }
