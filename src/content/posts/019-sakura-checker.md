@@ -3,7 +3,7 @@ template: blog-post
 title: サクラチェッカー - やらせレビューを見抜く
 slug: /sakura-checker
 date: 2022-03-05 08:00
-description: AI を使ってより優れた文章を書く
+description: 通販サイトのやらせレビューを分析
 featuredImage: /assets/019-sakura-checker/sakura-checker-header.png
 ---
 
