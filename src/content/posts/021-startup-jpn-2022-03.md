@@ -17,16 +17,22 @@ https://media.startup-db.com/research/valuation-ranking-202203
 
 エンジェル投資家の期待を集める企業、拡大しているサービスをみていくことでアプリ開発のアイディアや発想が広がるかもしれません。
 
+<br />
+
 ## 国内スタートアップランキング
 
-ランキングの1位は機械学習・深層学習などAI技術に携わる Preferred Networks。2位はニュースアプリ SmartNews を運営するスマートニュース、3位はクラウド人事労務ソフトを提供する SmartHR となっています。
+ランキングの1位は、機械学習・深層学習などAI技術に携わる Preferred Networks。
+
+2位はニュースアプリ SmartNews を運営するスマートニュース、3位はクラウド人事労務ソフトを提供する SmartHR となっています。
+
+<br />
 
 <table>
 	<tr>
-		<th>順位</th>
-		<th>社名</th>
-		<th>事業内容</th>
-		<th>評価額(億円)</th>
+		<th class="th column1">順位</th>
+		<th class="th">社名</th>
+		<th class="th">事業内容</th>
+		<th class="th">評価額<br />(億円)</th>
 	</tr>
 	<tr>
 		<th>1</th>
@@ -34,7 +40,7 @@ https://media.startup-db.com/research/valuation-ranking-202203
 		<td>機械学習・深層学習など最先端技術の実用化</td>
 		<td>3,549</td>
 	</tr>
-	<tr>
+	<tr class="even">
 		<th>2</th>
 		<td>スマートニュース</td>
 		<td>スマートデバイスに特化したニュースアプリ「SmartNews」</td>
@@ -46,7 +52,7 @@ https://media.startup-db.com/research/valuation-ranking-202203
 		<td>クラウド人事労務ソフト「SmartHR」など</td>
 		<td>1,731</td>
 	</tr>
-	<tr>
+	<tr class="even">
 		<th>4</th>
 		<td>TRIPLE-1</td>
 		<td>半導体のシステム「KAMIKAZE」の開発</td>
@@ -58,7 +64,7 @@ https://media.startup-db.com/research/valuation-ranking-202203
 		<td>新世代バイオ素材開発</td>
 		<td>1,351</td>
 	</tr>
-	<tr>
+	<tr class="even">
 		<th>6</th>
 		<td>TBM</td>
 		<td>プラスチックや紙の代替素材「LIMEX」や資源循環サービスなど</td>
@@ -70,7 +76,7 @@ https://media.startup-db.com/research/valuation-ranking-202203
 		<td>凝縮系核反応を用いた新水素エネルギーの実用化研究</td>
 		<td>1,299</td>
 	</tr>
-	<tr>
+	<tr class="even">
 		<th>8</th>
 		<td>Mobility Technologies</td>
 		<td>タクシー配車アプリ「GO」など</td>
@@ -80,18 +86,43 @@ https://media.startup-db.com/research/valuation-ranking-202203
 		<th>9</th>
 		<td>GVE</td>
 		<td>CBDC（中央銀行発行デジタル通貨）プラットフォームの開発</td>
-		<td>1,>117</td>
+		<td>1,117</td>
 	</tr>
-	<tr>
+	<tr class="even">
 		<th>10</th>
 		<td>HIROTSUバイオサイエンス</td>
 		<td>線虫および線虫嗅覚センサーを利用したがん検査「N-NOSE」の開発・販売</td>
-		<td>1,>027</td>
+		<td>1,027</td>
 	</tr>
 	<tr>
 		<th></th>
 	</tr>
 </table>
+
+<style>
+th.th {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.4;
+  background-color: #6c7ae0;
+}
+
+td {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  font-size: 16px;
+  color: #808080;
+  line-height: 1.4;
+}
+
+tr.even {
+      background-color: #f8f6ff;
+}
+</style>
+
+<br />
 
 上位 10 社は、すべて評価額1000億円以上なので、いわゆるユニコーン企業といわれることがあります。
 
@@ -178,7 +209,7 @@ Spiber は新世代バイオ素材開発をおこなう、山形県鶴岡市に�
 
 世界初の人工合成による構造タンパク質素材「Brewed Protein™️（ブリュード・プロテイン™️）」の量産化に成功したことで有名な企業。
 
-![Spiber](./assets/021-startup-jpn-2022-03/tripl
+![Spiber](./assets/021-startup-jpn-2022-03/spiber.png)
 
 <br />
 
@@ -190,6 +221,8 @@ TBM は、蓄電池製造業を営む山口県宇部市の企業。
 
 石灰石を原料にプラスチックや紙の代替となる素材「LIMEX」を生産する素材開発のスタートアップ。
 
+![TBM](./assets/021-startup-jpn-2022-03/tbm.png)
+
 <br />
 
 ### 7位: クリーンプラネット
@@ -200,6 +233,8 @@ https://www.cleanplanet.co.jp/
 
 CO2フリーの新エネルギー「量子水素エネルギー」を開発するスタートアップ。
 
+![クリーンプラネット](./assets/021-startup-jpn-2022-03/clean-planet.png)
+
 <br />
 
 ### 8位: Mobility Technologies
@@ -209,6 +244,8 @@ https://mo-t.com/
 タクシー事業者などに向けた配車システムを提供するモビリティ関連事業を展開する企業。
 
 タクシーアプリ『JapanTaxi』、タクシーアプリ『MOV』、法人向けサービス『JapanTaxi BUSINESS』、交通事故削減支援サービス『DRIVE CHART』、ドライブレコーダー『JapanTaxiドライブレコーダー4』などを手掛ける。
+
+![Mobility Technologies](./assets/021-startup-jpn-2022-03/mobility-technologies.png)
 
 2020年4月1日(水)に、JapanTaxi株式会社から株式会社Mobility Technologiesへ社名変更。MaaSをはじめとした交通の進化を国内で実現し、社会を支える基幹インフラの一つであるモビリティの発展をテクノロジーで牽引することを目指す。
 
@@ -221,6 +258,8 @@ https://gve.co.jp/
 GVE は受託開発ソフトウェア業を営む企業。
 
 法定通貨のデジタル化プラットフォームを開発・運営する。2018年から、ISO20933を採り入れ、デジタル・トランスフォーメーションDXプラットフォームの開発と領域を広げてきた。
+
+![GVE](./assets/021-startup-jpn-2022-03/gve.png)
 
 現在、発展途上国の法定通貨のデジタル化プラットフォームと個人情報の保護管理システムをベースとした、遠隔診断を助けるためのプラットフォーム事業に集中してビジネスと展開している。
 
@@ -235,5 +274,7 @@ https://hbio.jp/
 HIROTSUバイオサイエンスのがん検査サービス『N-NOSE』では、利用者が検査キットで尿を採取し、窓口に持ち込む。
 
 体長1ミリメートルの線虫という生物を使った技術で、尿から15種類のがんの有無を検知する。利用者の自宅まで尿を引き取りに来るサービスもある。
+
+![HIROTSUバイオサイエンス](./assets/021-startup-jpn-2022-03/hirotsu.png)
 
 <br />
