@@ -3,7 +3,7 @@ template: blog-post
 title: 国内スタートアップランキング - 2022年3月
 slug: /021-startup-jpn-2022-03
 date: 2022-03-19 08:00
-description: 自動で文章の誤字・脱字や表記ルールをチェックする
+description: 国内スタートアップランキング 
 featuredImage: /assets/021-startup-jpn-2022-03/startup-jpn-2022-03-header.png
 ---
 
