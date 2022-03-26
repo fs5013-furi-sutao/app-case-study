@@ -20,8 +20,8 @@ https://www.canva.com/
 
 Canva なら、ちゃちゃっと作ったデザインでも、なぜかそれなりきちんとした絵になってしまうのです。
 
-`添削イメージ`
-![添削イメージ](./assets/022-canva/screencapture-edit-image-on-canva.png)
+`作成例`
+![作成例](./assets/022-canva/screencapture-edit-image-on-canva.png)
 
 ## Canva で何ができるの？
 
