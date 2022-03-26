@@ -74,11 +74,15 @@ Canva（キャンバ）は、オーストラリアのスタートアップ企業
 DUOTONE 加工をデザインに取り入れることもできます。
 
 `DUOTONE でガチャピンとムック`
-![DUOTONE でガチャピンとムック](./assets/022-canva/5.png)
+![DUOTONE でガチャピンとムック](./assets/022-canva/gachpin-mook.png)
 
 ### YouTube
 
 Canva では、他にもプレゼン資料や動画を作ることもできます。
+
+以下の動画作成の説明は、Daniel Schiffer によるものです。
+
+Daniel Schiffer は単純な映像をカッコよく表現するテクニック、B-ROLL を上手く利用した撮影・編集テクニックが有名です。
 
 `Canva`  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGNq1dm2wUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
