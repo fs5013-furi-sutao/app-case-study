@@ -71,9 +71,14 @@ Canva（キャンバ）は、オーストラリアのスタートアップ企業
 `グラフィックを挿入`
 ![グラフィックを挿入](./assets/022-canva/5.png)
 
-Canva では、他にもプレゼン資料や動画を作ることもできます。
+DUOTONE 加工をデザインに取り入れることもできます。
+
+`DUOTONE でガチャピンとムック`
+![DUOTONE でガチャピンとムック](./assets/022-canva/5.png)
 
 ### YouTube
+
+Canva では、他にもプレゼン資料や動画を作ることもできます。
 
 `Canva`  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGNq1dm2wUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
