@@ -130,7 +130,7 @@ Reddit は、ブランドにとって敵対的な環境であるという評判�
 
 <br />
 
-## GameStop 事件
+## GameStop事件
 
 Reddit が近年ひと際目立つ存在となったトピックとして GameStop 事件が話題になりました。  
 
