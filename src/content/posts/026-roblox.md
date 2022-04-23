@@ -39,7 +39,18 @@ Roblox は、2004年にカナダ人のベテランエンジニア2人 David Basz
 `David Baszucki`<br />
 ![David Baszucki](./assets/026-roblox/david-baszucki.png)
 
-リリース当初はマーケティングなどもしていなかったため注目されない状態が長く続いたが、パンデミックによるゲーム業界の急激な需要増加をきっかけに、ここ数年で人気に火が付いた。
+David Baszucki 氏は、Roblox を創業する前に、教育用ソフトウェアを手掛ける Knowledge Revolution という
+会社を持っていた。
+Knowledge Revolution 社では、ユーザーがコンピューター上で物理学の実験を行えるソフトウェアを提供していた。
+ユーザーは自分で実験を組み立てることができ、実験が終わった後もソフトウェアを使い、
+家を建てるユーザーや車を作りお互いぶつけ合うユーザなどが現れ、
+おのおのがそれぞれ自分が面白いと思う物を作り始め自由に遊ぶようになったという。
+
+これに気づいた Baszucki 氏は、ユーザー自身が想像力を使い創作活動ができるプラットフォームのニーズを汲み取り、
+Roblox を創立した。
+
+Roblox のリリース当初はマーケティングなどもしていなかったため注目されない状態が長く続いたが、
+パンデミックによるゲーム業界の急激な需要増加をきっかけに、ここ数年で人気に火が付いた。
 
 <br />
 
@@ -179,6 +190,10 @@ Roblox 上で行われている新しいゲームプレイ体験をみると、�
 
 `アバターをカスタマイズしていく楽しさ`<br />
 ![アバターをカスタマイズしていく楽しさ](./assets/026-roblox/avator-editor.png)
+
+![アバターをカスタマイズしていく楽しさ](./assets/026-roblox/avator.png)
+
+![アバターをカスタマイズしていく楽しさ](./assets/026-roblox/dance.gif)
 
 自分をよりよく見せるためのアクセサリ購入が増えているという事実は、
 つまり、仮想世界であるがゆえの新しい価値観がクラウドネイティブ世代で生まれているということを示している。
@@ -350,5 +365,18 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 スポーツメーカーの「NIKE」が作ったゲーム。
 鬼ごっこやスイミング、レースなど身体を動かして遊べる空間が広がる。
 もちろんアバターに NIKE のシューズや洋服などを着せて楽しむこともできる。
+
+<br />
+
+### シャークバイト
+
+`SharkBite 🦈`  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/10NHRkGbP3E" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+サメになって人を襲うか、人になってサメを討伐 or 逃げきるか2種類の楽しみ方があるゲーム。
+サメになったらボートに乗っているプレイヤーからの攻撃を避けながら、襲いかかる。
+人になったらボートに乗りながらサメの攻撃を避けつつ、銃などの武器を使ってサメの討伐を目指すというゲーム。
 
 <br />
