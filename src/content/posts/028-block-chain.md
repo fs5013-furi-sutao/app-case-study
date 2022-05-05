@@ -184,6 +184,11 @@ SHA256 は `Secure Hash Algorithm 256 bit` の略であり、
 </table>
 
 <style>
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
 th.th {
   padding-top: 18px;
   padding-bottom: 18px;
@@ -197,6 +202,10 @@ th.data {
   padding: 18px 4px;
   font-size: 14px;
   line-height: 1.4;
+}
+
+td {
+  word-wrap: break-word;
 }
 
 td.data {
