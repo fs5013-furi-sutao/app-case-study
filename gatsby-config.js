@@ -84,6 +84,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-twitter`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     "gatsby-plugin-theme-ui",

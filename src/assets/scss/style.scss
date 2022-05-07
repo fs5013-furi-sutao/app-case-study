@@ -7,6 +7,16 @@
 // 	grid-template-rows: 60px auto 60px;
 // 	min-height: 100vh;
 // }
+ul li {
+  padding-bottom: 0.4em;
+  font-size: 0.92em;
+  color: #555;
+}
+ol li {
+  padding-bottom: 0.4em;
+  font-size: 0.92em;
+  color: #555;
+}
 .primary-container main {
   min-height: calc(100vh - 60px - 81px);
 }
@@ -242,7 +252,8 @@ article img {
   margin: 0 auto;
   padding: 20px;
   line-height: 1.5;
-  font-size: 20px;
+  font-size: 0.96em;
+  line-height: 1.4em;
 }
 
 .blog-post {
